@@ -37,7 +37,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 Sigue estos pasos para poner en marcha el proyecto en tu máquina local:
 
-### 1. Clonar el Repositorio
+### 1. Correr el proyecto
 
 Abre tu terminal y ejecuta el siguiente comando:
 
